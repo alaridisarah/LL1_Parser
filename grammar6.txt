@@ -1,0 +1,11 @@
+P -> S
+S -> MY
+Y -> @ | ;S
+M -> id=E
+E -> TU
+U -> +TU | -TU | @
+T -> XI
+I -> *XI | /XI | @
+X -> FW
+W -> ^X | @
+F -> (E) | id | int | pF | nF
